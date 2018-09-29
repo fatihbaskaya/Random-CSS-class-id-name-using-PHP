@@ -12,7 +12,7 @@
 
 
 	<style>
-		.<?php echo $randomClass?>{
+		.<?php echo $randomClass;?>{
 			background: #fece1a;
 			width:200px;
 			height: 200px;
